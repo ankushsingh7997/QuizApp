@@ -47,6 +47,7 @@ function Quiz() {
   return (
    
     <div className="container">
+        <div className='text'>Quiz App</div>
 
         <div className="miniContainer">
             {result?(

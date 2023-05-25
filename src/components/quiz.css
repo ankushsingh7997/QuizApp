@@ -3,8 +3,16 @@
   display: flex;
   justify-content: center;
   align-items: center;
+  flex-direction: column;
+  gap: 2rem;
  
   height: 100vh;
+}
+.text{
+    font-weight: 999;
+    font-size: 60px;
+    color: #ebb9b9;;
+
 }
 
 
